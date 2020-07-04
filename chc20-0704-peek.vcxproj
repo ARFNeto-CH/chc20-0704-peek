@@ -145,6 +145,10 @@
   <ItemGroup>
     <ClInclude Include="_arfneto.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="peekA.png" />
+    <Image Include="peekB.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
